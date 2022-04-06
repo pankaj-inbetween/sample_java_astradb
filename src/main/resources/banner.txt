@@ -1,0 +1,9 @@
+${AnsiColor.RED}    _____                .__  .__          
+${AnsiColor.RED}   /  _  \ ______   ____ |  | |  |   ____  
+${AnsiColor.RED}  /  /_\  \\____ \ /  _ \|  | |  |  /  _ \ 
+${AnsiColor.RED} /    |    \  |_> >  <_> )  |_|  |_(  <_> )
+${AnsiColor.RED} \____|__  /   __/ \____/|____/____/\____/ 
+${AnsiColor.RED}         \/|__|                            
+${AnsiColor.BLUE} 
+${AnsiColor.BLUE} Getting Started with Apollo
+
